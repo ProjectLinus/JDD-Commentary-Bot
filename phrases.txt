@@ -1,0 +1,17 @@
+﻿[JOGADOR] foi [ACTION_P] por [CHARACTER] e não sobreviveu. Este era [CHARACTER], o [ROLE] [EQUIPA].
+[JOGADOR] tentou defender-se das acusações mas falhou miseravelmente.
+[JOGADOR] foi executado com [NUMERO_VOTE] votos [EXPR_EXEC].
+"Ou é burro ou máfia" - [JOGADOR], sobre [JOGADOR]
+"Só um [EQUIPA] retardado [ACTION_R] [EXPR_ACC]" - [JOGADOR]
+"[CHARACTER] não [ACTION_R] o [JOGADOR], não sejam retardados" - [JOGADOR]
+ACONTECIMENTO: [TEMPO_G], [CHARACTER] [ACTION_A] [JOGADOR]. Este [EXPR_P].
+"Noite sem pistas gg" - [JOGADOR]
+[JOGADOR] (1) - [JOGADOR]
+Acabou o JDD [NUMERO_JDD] - [TEMA], hostado por [JOGADOR]. [EXPR_JDD].
+"Tudo ovelhas a votar no [JOGADOR]" - [JOGADOR]
+"Não executem o [JOGADOR], ele é o [ROLE]" - [JOGADOR]
+"Agora já achas que o [JOGADOR] é [EQUIPA] só porque te apontei o dedo" - [JOGADOR] sobre [JOGADOR]
+"O [JOGADOR] é o [ROLE] [EQUIPA]. Podem-me executar se estiver errado" - [JOGADOR]
+“Nunca vi um [ROLE] tão cepo como este” - [JOGADOR] sobre [JOGADOR]
+[TEMPO_G], [JOGADOR] foi [ACTION_P] por [CHARACTER] e [EXPR_P].
+PM recebida: "Quero [ACTION_V] o [JOGADOR]", enviada por [JOGADOR] ([CHARACTER]).
